@@ -16,6 +16,8 @@
 /readme.html
 /wp-*.php
 /xmlrpc.php
+MICRODADOS_ENEM_2022.csv
+/MICRODADOS_ENEM_2022.csv
 
 # Configuration
 wp-config.php
