@@ -26,6 +26,20 @@ Certifique-se de ter o Python e o pip instalados em seu ambiente antes de prosse
 3. Execute as células do notebook para iniciar a análise dos dados.
 4. Os resultados e visualizações serão exibidos no próprio notebook.
 
+## Etapas Concluídas
+
+Até o momento, foram realizadas as seguintes etapas:
+
+1. Leitura dos dados do ENEM 2022.
+2. Remoção de colunas com pouca relevância para o projeto.
+3. Análise e criação de gráficos dos participantes por faixa etária.
+4. Análise e criação de gráficos dos participantes por gênero.
+5. Análise por estados e regiões do Brasil.
+
+## Em Desenvolvimento
+
+O projeto ainda está em desenvolvimento e outras análises estão planejadas. Além disso, serão realizadas visualizações mais detalhadas, cálculos estatísticos e outras investigações sobre os dados.
+
 # Contribuição
 
 Se você deseja contribuir para o projeto, siga as etapas abaixo:
