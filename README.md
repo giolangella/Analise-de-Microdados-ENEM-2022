@@ -1,8 +1,8 @@
-# Analise de Microdaods ENEM 2022
+# Analise de Microdados ENEM 2022
 
 Este projeto consiste na análise dos microdados do Exame Nacional do Ensino Médio (ENEM) referentes ao ano de 2022. O objetivo é explorar e visualizar informações relevantes contidas nos dados, fornecendo insights sobre o perfil dos participantes, suas notas e outras características.
 
-#Pré-requisitos
+# Pré-requisitos
 
 ### Antes de começar, verifique se você atende aos seguintes requisitos:
 
