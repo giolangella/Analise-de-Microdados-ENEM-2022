@@ -1,4 +1,4 @@
-# Analise de Microdados ENEM 2022
+# Análise de Microdados ENEM 2022
 
 Este projeto consiste na análise dos microdados do Exame Nacional do Ensino Médio (ENEM) referentes ao ano de 2022. O objetivo é explorar e visualizar informações relevantes contidas nos dados, fornecendo insights sobre o perfil dos participantes, suas notas e outras características.
 
@@ -6,7 +6,7 @@ Este projeto consiste na análise dos microdados do Exame Nacional do Ensino Mé
 
 ### Antes de começar, verifique se você atende aos seguintes requisitos:
 
-Ter os dados do ENEM 2022 em formato CSV. Podem ser obtidos clicando [aqui](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem)
+Ter os dados do ENEM 2022 em formato CSV. Podem ser obtidos clicando [aqui](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem).
 Ter o ambiente Python configurado com as bibliotecas necessárias (pandas, numpy, matplotlib, seaborn).
 
 # Instalação
